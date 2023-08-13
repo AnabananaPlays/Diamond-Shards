@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "diamondshard",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}

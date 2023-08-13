@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamondshard",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 9
+  }
+}
