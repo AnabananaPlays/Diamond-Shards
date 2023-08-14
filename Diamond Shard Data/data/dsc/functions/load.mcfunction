@@ -1,1 +1,0 @@
-scoreboard objectives add diamond minecraft.mined:minecraft.diamond_ore

@@ -1,1 +1,0 @@
-execute as @p[scores={diamond=1..}] run function dsc:xpkill
